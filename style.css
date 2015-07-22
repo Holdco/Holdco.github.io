@@ -1,28 +1,9 @@
-font-family:Tahoma,Arial,Roboto,”Droid Sans”,”Helvetica Neue”,”Droid Sans Fallback”,”Heiti SC”,”Hiragino Sans GB”,Simsun,sans-self;
-p{
-	color: blue;
+body{
+	background-color: #00FA9A;
+}
+#slogan{
 	font-size: 30px;
 }
-#shi{
-	margin:0 auto;
-	line-height:40px
-	}
-#radio{
-	font-size: 20px;
-}
-#headernav {
+#result-text{
 	font-size: 30px;
-	color: red;
-  	position: fixed;
-	z-index: 999;
-	top: 0;
-	background: #111;
- 	filter: alpha(opacity=80);
- 	-moz-opacity: 0.8;
- 	-khtml-opacity: 0.8;
-	opacity: 0.8;
-	height: 40px;
-	width: 100%;
-	text-align: center;
-	overflow: hidden;
 }
